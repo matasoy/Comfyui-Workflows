@@ -5,4 +5,6 @@ A collection of Comfyui Workflows
 ![Workflow Screenshot](chrome_Wkp2K7lvRH.jpg)
 
 [[Video Önizlemesi]]
-https://github.com/matasoy/Comfyui-Workflows/blob/main/output.mp4?raw=true
+<video src="https://github.com/matasoy/Comfyui-Workflows/raw/main/output.mp4" controls="controls" style="max-width: 100%;">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
